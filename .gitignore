@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/angular-json-server.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
