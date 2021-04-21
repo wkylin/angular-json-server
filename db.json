@@ -12,7 +12,7 @@
     "code": 0,
     "data": [
       {
-        "react": "v17.0.2"
+        "react": "v17.0.2",
         "reactRouter": "v5.2.0"
       }
     ],
