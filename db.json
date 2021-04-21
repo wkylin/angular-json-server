@@ -1,21 +1,21 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "react": {
-    "code": 0,
-    "data": [
-      {
-        "react": "v17.0.2",
-        "reactRouter": "v5.2.0"
-      }
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
     ],
-    "message": "Ok"
-  }
+    "profile": {
+        "name": "typicode"
+    },
+    "react": {
+        "code": 0,
+        "data": [
+            {
+                "react": "v17.0.2",
+                "reactRouter": "v5.2.0"
+            }
+        ],
+        "message": "Ok"
+    }
 }
